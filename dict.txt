@@ -1,0 +1,9 @@
+car 
+dog
+jump
+run
+scream
+help
+dislocate
+joint 
+break
